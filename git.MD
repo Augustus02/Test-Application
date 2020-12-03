@@ -1,4 +1,4 @@
-git init creates a empty repository.
+git init initializes a new repository.
 
 git add means you are adding or updating the file in the current repository.
 
